@@ -1,5 +1,7 @@
 # ArReport
 
+[![Gem Version](https://badge.fury.io/rb/ar_report.png)](http://badge.fury.io/rb/ar_report)
+
 Install, Generate and email.. cant get simpler than this.. Generate basic ActiveRecord Report with ease. 
 
 
