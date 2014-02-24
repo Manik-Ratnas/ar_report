@@ -72,3 +72,6 @@ You could also run:
 Specs.
 
 :collision: :collision: :collision:
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Manik-Ratnas/ar_report/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
