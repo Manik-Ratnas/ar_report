@@ -41,6 +41,8 @@ When you open this file, you can specify various options fir your report like mo
           report_from: # specify email address of user from which you want to send the email. 
 
           report_to:   # specify email address of users/group to whom you want to send an email to. 
+          
+          subject: #subject of the email to be sent
 </pre>
 
 Fill in al the required details and.. hey.. you are done..! 
