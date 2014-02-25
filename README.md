@@ -36,11 +36,11 @@ When you open this file, you can specify various options fir your report like mo
 	ar_report: 
 	  models: #specify model name here for eg 'User' or array of models ['User', 'Post'] 
 
-    file_name: #specify name of the xls report to be attached  
+          file_name: #specify name of the xls report to be attached  
 
-    report_from: # specify email address of user from which you want to send the email. 
+          report_from: # specify email address of user from which you want to send the email. 
 
-    report_to:   # specify email address of users/group to whom you want to send an email to. 
+          report_to:   # specify email address of users/group to whom you want to send an email to. 
 </pre>
 
 Fill in al the required details and.. hey.. you are done..! 
