@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["manishspuri@gmail.com"]
   gem.description   = %q{A wrapper to send model reports using using spreadsheet and mail gem}
   gem.summary       = %q{This gem will extract an excel report from a activerecord model and send a report to a specified email}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/Manik-Ratnas/ar_report"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
