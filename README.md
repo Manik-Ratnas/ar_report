@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-This gem uses the spreadsheet and mail gem to send out reports to a email specified email address.
+This gem uses the spreadsheet and mail gem to send out reports to a specified email address.
 
 Once you install the gem, Use it as follows.
 
@@ -31,7 +31,7 @@ Run,
 
 This will generate a config/ar_report.yml in your application directory. 
 
-When you open this file, you can specify various options fir your report like models, report_name, report_from and report_to. Following is the structure for the yml: 
+When you open this file, you can specify various options for your report like models, report_name, report_from and report_to. Following is the structure for the yml: 
 <pre>
 	ar_report: 
 	  models: #specify model name here for eg 'User' or array of models ['User', 'Post'] 
